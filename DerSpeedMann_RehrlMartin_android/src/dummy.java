@@ -13,5 +13,7 @@ public class dummy {
 		public void iDoSomething(){
 			System.out.println("counter: ");
 			int i = 0;
+			for (int j = 0; j < 7; j++) {
+			}
 		}
 }
