@@ -14,6 +14,7 @@ public class dummy {
 			System.out.println("counter: ");
 			int i = 0;
 			for (int j = 0; j < 7; j++) {
+				i = i + 4;
 			}
 		}
 }
