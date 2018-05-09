@@ -9,4 +9,8 @@ public class dummy {
 			System.out.println("Doppelpunkt Klammerzu");
 			System.out.println("Klappe die erste!");
 		}
+		
+		public void bugBUG(){
+		String str = new String("i'm a BUG !);
+		}
 }
