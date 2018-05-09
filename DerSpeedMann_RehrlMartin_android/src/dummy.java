@@ -12,5 +12,6 @@ public class dummy {
 		
 		public void iDoSomething(){
 			System.out.println("counter: ");
+			int i = 0;
 		}
 }
