@@ -9,4 +9,7 @@ public class dummy {
 			System.out.println("Doppelpunkt Klammerzu");
 			System.out.println("Klappe die erste!");
 		}
+		
+		public void iDoSomething(){
+		}
 }
