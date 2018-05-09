@@ -5,5 +5,7 @@ public class dummy {
 			System.out.print("Hallo :)");
 		}
 		
-		public void thisIsANewMethod() { }
+		public void thisIsANewMethod() {
+			System.out.println("Doppelpunkt Klammerzu");
+		}
 }
