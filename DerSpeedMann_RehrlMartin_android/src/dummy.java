@@ -13,4 +13,7 @@ public class dummy {
 		public void bugBUG(){
 		String str = new String("i'm a BUG !);
 		}
+		public void bugNoBUG(){
+		String str = new String("now this is the fix for the bug);
+		}
 }
